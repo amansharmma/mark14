@@ -1,0 +1,76 @@
+.container{
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    
+}
+body{
+    max-width: 40%;
+    margin: auto;
+    text-align: center;
+   height: 100%;
+   background-color: antiquewhite;
+}
+.label-html{
+    display: block;
+    width: 100%;
+    margin: 1rem;
+}
+.angle{
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+.check-button{
+    margin-top: 1rem;
+}
+p{
+    max-width: 500rem;
+    margin: 3rem auto;
+    text-align:center
+
+}
+footer{
+    max-width: 85%;
+    margin: auto;
+}
+.no{
+    text-align: center;
+    font-size: 20px;
+}
+.inline{
+    display: inline;
+    margin: 1rem;   
+}
+.link{
+    
+    text-decoration: none;
+}
+.linker{
+    padding: 0.5rem;
+    border-radius: 1rem;
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    margin: 2rem auto;
+    max-width: 100px;
+}
+.links{
+    text-decoration: none;
+}
+label {
+    font-size: 20px;
+    font: bold;
+}
+.links{
+    text-decoration: none;
+}
+input, button{
+    height: 40px;
+    border-color: blue;
+    border-width: 2px;
+    border-radius: 90px;
+}
+button{
+    margin-top: 8px;
+}
